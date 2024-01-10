@@ -1,9 +1,20 @@
-- 👋 Hi, I’m Sree Harsha Kamisetty
-- 🌱 I’m currently learning Node.js
-- Some of my works : <a href="https://stayhub-com.netlify.app/">Stayhub</a> || <a href="https://art-gallery-123.netlify.app/">Art Gallery</a> 
-- You can reach me on <a href="https://www.linkedin.com/in/sree-harsha-kamisetty-9846b32a0/">LinkedIn</a>
+<h1 align="center">Hello there 👋, I am Sree Harsha</h1>
+<h3 align="center">A passionate Node.js backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
-<!---
-SreeHarsha-Kamisetty/SreeHarsha-Kamisetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **Node.js**
+- 💬 Ask me about **JavaScript & Node.js**
+
+- 📫 How to reach me **sreeharsha.kamisetty99@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sree-harsha-kamisetty/" target="blank"></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<hr/>
+
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,postman,html,js,css,mongodb,node.js,express.js&theme=light)](https://skillicons.dev)
+
