@@ -8,7 +8,7 @@
 - 📫 How to reach me **sreeharsha.kamisetty99@gmail.com**
 
 <h3 align="left">Connect with me on LinkedIn</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/sree-harsha-kamisetty/" target="blank">sree-harsha-kamisetty</a>
 </p>
 
