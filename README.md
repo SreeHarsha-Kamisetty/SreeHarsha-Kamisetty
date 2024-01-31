@@ -22,3 +22,6 @@
 
 [![Sree Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SreeHarsha-Kamisetty)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeHarsha-Kamisetty)](https://github.com/anuraghazra/github-readme-stats)
+
