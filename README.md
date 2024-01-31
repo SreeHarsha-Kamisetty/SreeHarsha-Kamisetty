@@ -16,5 +16,5 @@
 
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,js,HTML,CSS,vscode,postman,github,git,netlify,java,mysql&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css,vscode,postman,github,git,netlify,java,mysql&perline=4)](https://skillicons.dev)
 
