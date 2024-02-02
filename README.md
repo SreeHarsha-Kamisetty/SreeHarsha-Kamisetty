@@ -1,27 +1,29 @@
-<h1 align="center">Hello there 👋, I am Sree Harsha</h1>
-<h3 align="center">A passionate Node.js backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
+<h1 align="center">Hi 👋, I'm Sree Harsha Kamisetty</h1>
+<h3 align="center">A passionate Nodejs Backend web developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js**
-- 💬 Ask me about **JavaScript & Node.js**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeharsha-kamisetty&label=Profile%20views&color=0e75b6&style=flat" alt="sreeharsha-kamisetty" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreeharsha-kamisetty" alt="sreeharsha-kamisetty" /></a> </p>
+
+- 🌱 I’m currently learning **Backend Web development**
+
+- 👨‍💻 All of my projects are available at [https://sreeharsha-kamisetty.github.io/](https://sreeharsha-kamisetty.github.io/)
+
+- 💬 Ask me about **Nodejs,Expressjs**
 
 - 📫 How to reach me **sreeharsha.kamisetty99@gmail.com**
 
-<h3 align="left">Connect with me on LinkedIn</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/sree-harsha-kamisetty/" target="blank">sree-harsha-kamisetty</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sree-harsha-kamisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sree-harsha-kamisetty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<hr/>
-
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css,vscode,postman,github,git,netlify,java,mysql&perline=4)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SreeHarsha-Kamisetty)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreeharsha-kamisetty&show_icons=true&locale=en&layout=compact" alt="sreeharsha-kamisetty" /></p>
 
-[![Sree Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SreeHarsha-Kamisetty)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreeharsha-kamisetty&show_icons=true&locale=en" alt="sreeharsha-kamisetty" /></p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeHarsha-Kamisetty)](https://github.com/anuraghazra/github-readme-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeharsha-kamisetty&" alt="sreeharsha-kamisetty" /></p>
