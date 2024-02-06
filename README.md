@@ -22,7 +22,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css,vscode,postman,github,git,netlify,java,mysql&perline=4)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,html,css,vscode,postman,github,git,netlify,java,mysql&perline=4">
 </p>
 
 
