@@ -35,4 +35,4 @@
 
 
 <p ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sreeharsha-kamisetty&theme=highcontrast" alt="sreeharsha-kamisetty" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreeharsha-kamisetty" alt="sreeharsha-kamisetty" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreeharsha-kamisetty&theme=darkhub" alt="sreeharsha-kamisetty" /></a> </p>
