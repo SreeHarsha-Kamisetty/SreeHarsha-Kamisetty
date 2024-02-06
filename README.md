@@ -27,7 +27,7 @@
 
 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=sreeharsha-kamisetty&show_icons=true&locale=en" alt="sreeharsha-kamisetty" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreeharsha-kamisetty&show_icons=true&locale=en&theme=radical" alt="sreeharsha-kamisetty" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreeharsha-kamisetty&show_icons=true&locale=en&layout=compact" alt="sreeharsha-kamisetty" />
 
