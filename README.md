@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sree Harsha Kamisetty</h1>
 <h3 align="center">A passionate Nodejs Backend web developer from India</h3>
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=790b7611h3jkr3c8nx3ivhm4myr1yky6gqjj57xlkswnrjda&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeharsha-kamisetty&label=Profile%20views&color=0e75b6&style=flat" alt="sreeharsha-kamisetty" /> </p>
 
